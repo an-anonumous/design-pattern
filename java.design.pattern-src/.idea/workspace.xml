@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67f7a3e1-8ae7-4771-a670-33e6048b69f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java.design.pattern" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="UML Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YQrHAjNV1gZLAzB7rb1rybaIqg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Download/asm-all-repackaged-2.1.90.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ idea\java.design.pattern\src\Structural" />
+      <recent name="E:\IntelliJ idea\java.design.pattern\src\Creation\Singleton\LazySingleton\v3" />
+      <recent name="E:\IntelliJ idea\java.design.pattern\src\Creation\FactoryMethod" />
+      <recent name="E:\IntelliJ idea\java.design.pattern\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ idea\java.design.pattern\src\Creation\Builder\v1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Visitor.Test" />
+      <module name="java.design.pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.State.Test" />
+      <module name="java.design.pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.State.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Memento.Test" />
+      <module name="java.design.pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Memento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.Mediator.Test" />
+      <module name="java.design.pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.Mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Behavioral.ChainofResponsibilityPattern.Test" />
+      <module name="java.design.pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Behavioral.ChainofResponsibilityPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67f7a3e1-8ae7-4771-a670-33e6048b69f4" name="Default Changelist" comment="" />
+      <created>1582885568953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582885568953</updated>
+      <workItem from="1582885571333" duration="1529000" />
+      <workItem from="1582888841520" duration="3041000" />
+      <workItem from="1582900742017" duration="3880000" />
+      <workItem from="1582939311442" duration="8640000" />
+      <workItem from="1582956989392" duration="228000" />
+      <workItem from="1582957283887" duration="586000" />
+      <workItem from="1582957917747" duration="5731000" />
+      <workItem from="1582971019985" duration="17008000" />
+      <workItem from="1583024665260" duration="5899000" />
+      <workItem from="1583057795963" duration="12063000" />
+      <workItem from="1583111401073" duration="9867000" />
+      <workItem from="1583136899178" duration="10851000" />
+      <workItem from="1583195692075" duration="15597000" />
+      <workItem from="1583234850156" duration="8971000" />
+      <workItem from="1583284139191" duration="20361000" />
+      <workItem from="1583367631484" duration="2087000" />
+      <workItem from="1583482103989" duration="9743000" />
+      <workItem from="1583507135784" duration="3631000" />
+      <workItem from="1583511304232" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Notifications" timestamp="1583509669118">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1583509669118" />
+    <state x="137" y="22" width="1130" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582989557631">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="22" width="1130" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1582989557631" />
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1583509887756">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1583509887756" />
+    <state x="473" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583225365200">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="473" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.738@0.0.1366.738" timestamp="1583225365200" />
+    <state x="349" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583306875965">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="349" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1583306875965" />
+    <state x="396" y="0" key="Diagram.Print.Preview.Dialog" timestamp="1583250970436">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="396" y="0" key="Diagram.Print.Preview.Dialog/0.0.1366.738@0.0.1366.738" timestamp="1583250970436" />
+    <state x="413" y="40" key="FileChooserDialogImpl" timestamp="1583498872721">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="40" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583498872721" />
+    <state width="1313" height="244" key="GridCell.Tab.0.bottom" timestamp="1583512084305">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="244" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583512084305" />
+    <state width="1313" height="244" key="GridCell.Tab.0.center" timestamp="1583512084305">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="244" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583512084305" />
+    <state width="1313" height="244" key="GridCell.Tab.0.left" timestamp="1583512084304">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="244" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583512084304" />
+    <state width="1313" height="244" key="GridCell.Tab.0.right" timestamp="1583512084305">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="244" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583512084305" />
+    <state width="1313" height="229" key="GridCell.Tab.1.bottom" timestamp="1583510772923">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="229" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583510772923" />
+    <state width="1313" height="229" key="GridCell.Tab.1.center" timestamp="1583510772923">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="229" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1583510772923" />
+    <state width="1313" height="229" key="GridCell.Tab.1.left" timestamp="1583510772922">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="229" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1583510772922" />
+    <state width="1313" height="229" key="GridCell.Tab.1.right" timestamp="1583510772923">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1313" height="229" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1583510772923" />
+    <state x="188" y="0" key="Registry" timestamp="1582971385121">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="188" y="0" key="Registry/0.0.1366.738@0.0.1366.738" timestamp="1582971385121" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1583325423222">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583325423222" />
+    <state x="337" y="47" width="675" height="655" key="StructurePopup" timestamp="1583244985756">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="337" y="47" width="675" height="655" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1583244985756" />
+    <state width="623" height="540" key="SwitcherDM" timestamp="1583510603769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="623" height="540" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1583510603769" />
+    <state x="464" y="138" key="chooseDestDirectoryDialog" timestamp="1582889176838">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="464" y="138" key="chooseDestDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1582889176838" />
+    <state x="327" y="157" key="com.intellij.ide.util.TipDialog" timestamp="1583511304569">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="327" y="157" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583511304569" />
+    <state x="155" y="18" width="840" height="736" key="search.everywhere.popup" timestamp="1583376771315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="155" y="18" width="840" height="736" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583376771315" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>1572</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/ObjectInputStream.java</url>
+          <line>430</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/State/Test.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Behavioral/State/Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Structural/Decorator/AbstractCake.java</url>
+          <line>9</line>
+          <properties class="Structural.Decorator.AbstractCake" method="getPrice">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
