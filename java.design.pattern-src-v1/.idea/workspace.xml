@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67f7a3e1-8ae7-4771-a670-33e6048b69f4" name="Default Changelist" comment="" />
+    <list default="true" id="67f7a3e1-8ae7-4771-a670-33e6048b69f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.design.pattern/META-INF/java.design.pattern.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,10 +49,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YQrHAjNV1gZLAzB7rb1rybaIqg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -57,9 +66,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Download/asm-all-repackaged-2.1.90.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -182,6 +192,7 @@
       <workItem from="1583482103989" duration="9743000" />
       <workItem from="1583507135784" duration="3631000" />
       <workItem from="1583511304232" duration="774000" />
+      <workItem from="1584056965014" duration="248000" />
     </task>
     <servers />
   </component>
@@ -213,10 +224,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="396" y="0" key="Diagram.Print.Preview.Dialog/0.0.1366.738@0.0.1366.738" timestamp="1583250970436" />
-    <state x="413" y="40" key="FileChooserDialogImpl" timestamp="1583498872721">
+    <state x="413" y="40" key="FileChooserDialogImpl" timestamp="1584057068341">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="413" y="40" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583498872721" />
+    <state x="413" y="40" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584057068341" />
     <state width="1313" height="244" key="GridCell.Tab.0.bottom" timestamp="1583512084305">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -273,6 +284,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="327" y="157" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583511304569" />
+    <state x="428" y="267" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584057192437">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="428" y="267" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1584057192437" />
     <state x="155" y="18" width="840" height="736" key="search.everywhere.popup" timestamp="1583376771315">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
