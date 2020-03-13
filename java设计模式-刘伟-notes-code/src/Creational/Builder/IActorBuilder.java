@@ -17,5 +17,10 @@ public abstract class IActorBuilder {
         return actor;
     }
 
+    //    钩子方法
+    public boolean hasHair() {
+        return true;
+    }
+
 
 }

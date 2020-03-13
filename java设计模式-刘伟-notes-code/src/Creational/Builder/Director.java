@@ -8,7 +8,12 @@ public class Director {
         builder.buildFace();
         builder.buildsex();
         builder.buildCostume();
-        builder.buildHairstyle();
+
+//        恶魔没有头发
+        if (builder.hasHair()) {
+            builder.buildHairstyle();
+        }
+
         return builder.createActor();
     }
 }

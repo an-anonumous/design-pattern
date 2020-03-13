@@ -25,4 +25,9 @@ public class DevilBuilder extends IActorBuilder {
     public void buildHairstyle() {
         actor.setHairstyle("光頭");
     }
+
+    @Override
+    public boolean hasHair() {
+        return false;
+    }
 }
