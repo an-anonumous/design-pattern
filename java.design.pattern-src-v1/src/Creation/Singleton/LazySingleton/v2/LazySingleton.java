@@ -1,7 +1,7 @@
 package Creation.Singleton.LazySingleton.v2;
 
 public class LazySingleton {
-  private static volatile LazySingleton instence = null;
+  private static volatile LazySingleton instence = null; // 禁止指令重排序
 
   private LazySingleton() {}
 
@@ -22,7 +22,7 @@ public class LazySingleton {
           e.printStackTrace();
         }
 
-        if (instence == null) {
+        if (instence == null) { // 第二次检查
           instence = new LazySingleton();
         }
       }
